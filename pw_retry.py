@@ -1,6 +1,6 @@
 password = 'a123456'
 x = 3
-while True:
+while x > 0:
     pwd = input('entry password:')
     if pwd == password:
     	print('welcome!')
